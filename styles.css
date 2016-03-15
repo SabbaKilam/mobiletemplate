@@ -67,6 +67,7 @@ body{
     float: left;
     padding-left:10px;
     cursor: pointer;
+    font-size: 2rem;
 }
 
 #note{

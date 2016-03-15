@@ -7,7 +7,7 @@
     Notes:
 */
 var $$ = lib;
-
+var zz = "&#x2630;"
 //===============================================
 //--------Driver's Seat-------------------------
 window.onload = resize;
@@ -32,7 +32,7 @@ function closeMenu(){
 }
 function overMenu(){
     $$("#menu").css("color","white");
-}
+}""
 function offMenu(){
     $$("#menu").css("color","lightblue");    
 }
